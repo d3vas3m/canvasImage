@@ -4,7 +4,8 @@ canvasImage
 Easing the drawImage() and rotation of images in CANVAS
 
 Usage:
-
+<pre>
+<code>
 <!doctype html>
 <html>
 <head>
@@ -33,4 +34,6 @@ Usage:
 	</script>
 </body>
 </html>
+</code>
+</pre>
 
