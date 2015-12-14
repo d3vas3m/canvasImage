@@ -1,5 +1,4 @@
-/*                                 imageLoader.js
-* this small library is written to avoid writing codes to rotate images  
+/* imageLoader.js 
 * 
 */
 
